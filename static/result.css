@@ -1,0 +1,79 @@
+body{
+  background-color: #FAFAFA;
+}
+
+
+#congrats{
+  position: absolute;
+  top: 110px;
+  left: 370px;
+  padding: 20px;
+  font-size: 24px;
+  color: gray;
+  border-color: black;
+  background-color: ghostwhite;
+  text-align: center;
+  border-style: solid;
+}
+ 
+ #great{
+  color: black;
+  font-size: 30px;
+  margin-bottom: 7px;
+  font-weight: bold;
+ } 
+
+
+#board{
+  position: absolute;
+  top: 350px;
+  left: 420px;
+  height: 300px;
+  width: 520px;
+  z-index: 1;
+}
+
+#steak{
+  position: absolute;
+  top: 320px;
+  left: 500px;
+  height: 350px;
+  width: 350px;
+  z-index: 2;
+}
+
+ #stat{
+    position: absolute;
+    top: 340px;
+    right: 90px;
+    font-size: 23px;
+    background-color: ghostwhite;
+    border-style: solid;
+    padding: 10px;
+  }
+
+  #learn_again{
+    position: absolute;
+    top: 550px;
+    right: 90px;
+    color: white;
+    font-size: 17px;
+    font-family: Arial;
+    width: 140px;
+
+  }
+
+
+   #game_again{
+    position: absolute;
+    top: 600px;
+    right: 90px;
+    color: white;
+    font-size: 17px;
+    font-family: Arial;
+    width: 140px;
+
+  }
+
+
+  

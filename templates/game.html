@@ -1,0 +1,27 @@
+{% extends "layout.html" %}
+
+{% block content %}
+
+<link rel="stylesheet" href="{{url_for('static', filename='game.css')}}">
+<script type="text/javascript" src="{{ url_for('static', filename = 'game.js') }}"></script>
+
+
+<script>
+
+  let img = {{img|tojson}}
+
+
+</script>
+
+<div id="container">
+  <span id="title"> Cook the Gordon Ramsay Steak </span>
+  <span id="game_instruction"> Replicate the steps from <b> Learn</b>. <br> You have <b>3 hints</b> avaliable.</span>
+<img id="ramsay" src={{img["ramsay"]["image"]}} alt={{img["ramsay"]["description"]}}> </img>
+
+</div>
+
+<button type="button" id="start_game" class="btn btn-primary">Start Game</button>
+
+
+
+{% endblock %}
