@@ -1,4 +1,4 @@
-# Learn to Cook a Perfect Gordon Ramsay Steak in 10min
+# How to Cook a Perfect Gordon Ramsay Steak in 10min
 
 All it takes is 10 minutes and 7 ingredients to make someone love you forever!
 
