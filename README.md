@@ -23,6 +23,6 @@ python server.py
 ```
 
 ## To Learn
-After the website is up and running in your local host server, click on the Start Learning tab and follow the instructions! Don't forget to take the quiz to really master the recipe!
+After the website is up and running in your local host server, click on the Start Learning tab and follow the instructions! Don't forget to take the quiz by clicking the Game Button to really master the recipe!
 
 
