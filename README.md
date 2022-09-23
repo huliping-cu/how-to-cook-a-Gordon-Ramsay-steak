@@ -18,6 +18,7 @@ pip install flask
 ```bash
 virtualenv .venv 
 pip install flask
+source .venv/bin/activate
 python server.py 
 ```
 
