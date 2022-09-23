@@ -1,32 +1,27 @@
 # Learn to Cook a Perfect Gordon Ramsay Steak in 10min
 
-Foobar is a Python library for dealing with word pluralization.
+All it takes is 10 minutes and 7 ingredients to make someone love you forever!
 
+This is the group project for Class 4170 User Interface Design at Columbia University
+
+Authors: Hernan Gallego (hg2515) Liping Hu (lh3009)
+Madison Lee (mkl2166) Vaibhav Kapur (vk2471)
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install flask.
 
 ```bash
-pip install foobar
+pip install flask
 ```
 
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
+## To Run this Application
+```bash
+virtualenv .venv 
+pip install flask
+python server.py 
 ```
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## To Learn
+After the website is up and running in your local host server, click on the Start Learning tab and follow the instructions! Don't forget to take the quiz to really master the recipe!
 
-Please make sure to update tests as appropriate.
 
